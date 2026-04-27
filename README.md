@@ -4,4 +4,4 @@
 - ROS2 Humble
 - RViz
 - Gazebo Fortress
-- Intel RealSense
+- Intel RealSense D405
