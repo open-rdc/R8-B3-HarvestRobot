@@ -8,5 +8,7 @@
   
 ## 実行予定
 - PYTHON
+- piper SDK
+- MOVEIT
 - アームの型番
-  -https://techshare.co.jp/product/agilex/piper/
+  - https://techshare.co.jp/product/agilex/piper/
