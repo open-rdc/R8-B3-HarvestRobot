@@ -5,3 +5,8 @@
 - RViz
 - Gazebo Fortress
 - Intel RealSense D405
+  
+## 実行予定
+- PYTHON
+- アームの型番
+  -https://techshare.co.jp/product/agilex/piper/
