@@ -11,9 +11,12 @@
   - https://github.com/mobluebird/realsense-ros
 - piper SDK
   - https://github.com/mobluebird/piper_sdk
+- MoveIt2
+- Python 3.10.12
   
 ## 実行予定
-- PYTHON
-- MOVEIT
 - アームの型番
   - https://techshare.co.jp/product/agilex/piper/
+- シミュレーション
+- 実機動作
+- 認識 
